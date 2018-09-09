@@ -6,3 +6,6 @@ Docker Image Build:- docker build -t put-your-image-name .
 Docker Run: docker run -it put-your-image-name
 
 cmd:- /etc/init.d/mysql status | start | restart | stop
+
+
+all Exapmles are from https://bootstrap-it.com
